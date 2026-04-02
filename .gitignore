@@ -1,0 +1,25 @@
+﻿# Keil编译文件
+Objects/
+Listings/
+DebugConfig/
+*.hex
+*.axf
+*.lst
+*.map
+*.o
+*.d
+
+# VSCode
+.vscode/
+
+# 临时文件
+*.tmp
+*.swp
+*~
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Keil项目配置文件
+Project.uvguix.*
